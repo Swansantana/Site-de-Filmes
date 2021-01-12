@@ -1,0 +1,24 @@
+
+header {
+    background-color: #0f171e;
+}
+
+.logo-nav {
+    width: 135px;
+}
+
+.profile {
+    width: 40px;
+}
+
+.filmes {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #eee;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.filmes img {
+    width: 100%;
+}
