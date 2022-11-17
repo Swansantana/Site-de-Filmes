@@ -1,6 +1,6 @@
 # Site de Filmes
 
-Bem, Estava bastante acostumade mexendo com html e css e alguns pré/pós e frameworks css mas descobrir a mágica da requisição acontecendo foi de encher os olhos, dizem que iniciantes se sentem melhor quando conseguem ver algo acontecendo mas o fato de receber um requisição e poder entrega-la foi surpreendente.
+Bem, Estava bastante acostumada mexendo com html e css e alguns pré/pós e frameworks css mas descobrir a mágica da requisição acontecendo foi de encher os olhos, dizem que iniciantes se sentem melhor quando conseguem ver algo acontecendo mas o fato de receber um requisição e poder entrega-la foi surpreendente.
 
 ## Modelo Desktop
 ![gifreview2](https://user-images.githubusercontent.com/58120642/104263683-d0b84000-5468-11eb-9eeb-9f0a80a52bf5.gif)
